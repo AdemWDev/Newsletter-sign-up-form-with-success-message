@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AdemWDev/Newsletter-sign-up-form-with-success-message)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/AdemWDev/Newsletter-sign-up-form-with-success-message)
+- Live Site URL: (https://ademwdev.github.io/Newsletter-sign-up-form-with-success-message/)
 
 
 ### Built with
